@@ -2,7 +2,6 @@
 O Alura Midi é um instrumento musical digital, que reproduz sons de instrumentos musicais quando o usuário clica em seus botões.
 <br><br>
 ## Demonstração do Alura Midi
-<hr>
 <img src="images/videoaluramidi.gif">
 <p align="center">
 <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-blue">
